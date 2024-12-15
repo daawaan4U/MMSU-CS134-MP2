@@ -1,0 +1,3 @@
+Average: 0ns
+Laps: 
+1, 0ns

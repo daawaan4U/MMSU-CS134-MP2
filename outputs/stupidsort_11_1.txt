@@ -1,0 +1,3 @@
+Average: 20s 83ms 569600ns
+Laps:
+1, 20s 83ms 569600ns
